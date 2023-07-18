@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alisssssa
-- 👀 I’m interested in ...C#.WPF
+- 👀 I’m interested in ...C#.WPF.Python
 - 🌱 I’m currently learning 
 Академия "Шаг"
 - 💞️ I’m looking to collaborate on ...
